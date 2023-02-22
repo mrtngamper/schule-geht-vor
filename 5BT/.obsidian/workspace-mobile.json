@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "f448d681fbb68f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0cfd7be29aa4dd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8241cc71ac4eced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Other stuff/Quite quitting.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "7912796a4c422118"
+          }
+        ]
+      },
+      {
+        "id": "c8723ce984c103d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f8920249ca6994e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "English/Other stuff/Quite quitting.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "7912796a4c422118"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62833fa6eb942509",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cff95530a1d2fd62",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f5be88a3a12fa9f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8a38b97288e52f0d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2cf42b365e0a18f5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "02c049fc6fd23ce1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd32debe01032d2f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "English/Other stuff/Quite quitting.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "83040bc3564f252d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "English/Other stuff/Quite quitting.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b736cf216ef45eed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "English/Other stuff/Quite quitting.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "cff95530a1d2fd62",
+  "lastOpenFiles": [
+    "English/Politics/What if we replaced politicians with randomly selected people.md",
+    "English/Other stuff/Quite quitting.md",
+    "English/International organisations/EU - European Union.md",
+    "English/International organisations/UN - United Nations.md",
+    "English/Theatre - On the brink/Activism.md",
+    "English/Theatre - On the brink/Storyline.md",
+    "English/Film - Don't look up/Filmplot.md",
+    "Englisch/Politics/Theatre - On the brink.md",
+    "English/Politics/Politics and elections.md",
+    "English/Politics/Qualities of a politician.md"
+  ]
+}

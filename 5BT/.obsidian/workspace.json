@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d58f7154b892ca03",
+        "id": "68d364fcefa93b77",
         "type": "tabs",
         "children": [
           {
-            "id": "fd1dd198a143711d",
+            "id": "000ef2ca038bd391",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f669cb9f80d6a3fa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "English/Politics/The Cold War.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/Politics/The Cold War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/Politics/The Cold War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/Politics/The Cold War.md"
+              }
             }
           }
         ]
@@ -147,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f669cb9f80d6a3fa",
-  "lastOpenFiles": []
+  "active": "000ef2ca038bd391",
+  "lastOpenFiles": [
+    "English/relevant people/Mikhail Gorbachev.md",
+    "Untitled.canvas"
+  ]
 }

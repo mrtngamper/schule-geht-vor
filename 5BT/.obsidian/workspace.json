@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Politics/The Cold War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Politics/The Cold War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Politics/The Cold War.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "000ef2ca038bd391",
+  "active": "34d0b1936cb8fcc9",
   "lastOpenFiles": [
     "English/relevant people/Mikhail Gorbachev.md",
+    "conflict-files-obsidian-git.md",
+    "English/Politics/The Cold War.md",
     "Untitled.canvas"
   ]
 }
